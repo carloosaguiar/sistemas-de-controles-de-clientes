@@ -1,0 +1,15 @@
+C:\Users\cedua\OneDrive\Documentos\Desenvolvimento\desafio1\Controle-Sistemas\bin\Debug\net6.0\Controle-Sistemas.exe
+C:\Users\cedua\OneDrive\Documentos\Desenvolvimento\desafio1\Controle-Sistemas\bin\Debug\net6.0\Controle-Sistemas.deps.json
+C:\Users\cedua\OneDrive\Documentos\Desenvolvimento\desafio1\Controle-Sistemas\bin\Debug\net6.0\Controle-Sistemas.runtimeconfig.json
+C:\Users\cedua\OneDrive\Documentos\Desenvolvimento\desafio1\Controle-Sistemas\bin\Debug\net6.0\Controle-Sistemas.dll
+C:\Users\cedua\OneDrive\Documentos\Desenvolvimento\desafio1\Controle-Sistemas\bin\Debug\net6.0\Controle-Sistemas.pdb
+C:\Users\cedua\OneDrive\Documentos\Desenvolvimento\desafio1\Controle-Sistemas\obj\Debug\net6.0\Controle-Sistemas.csproj.AssemblyReference.cache
+C:\Users\cedua\OneDrive\Documentos\Desenvolvimento\desafio1\Controle-Sistemas\obj\Debug\net6.0\Controle-Sistemas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cedua\OneDrive\Documentos\Desenvolvimento\desafio1\Controle-Sistemas\obj\Debug\net6.0\Controle-Sistemas.AssemblyInfoInputs.cache
+C:\Users\cedua\OneDrive\Documentos\Desenvolvimento\desafio1\Controle-Sistemas\obj\Debug\net6.0\Controle-Sistemas.AssemblyInfo.cs
+C:\Users\cedua\OneDrive\Documentos\Desenvolvimento\desafio1\Controle-Sistemas\obj\Debug\net6.0\Controle-Sistemas.csproj.CoreCompileInputs.cache
+C:\Users\cedua\OneDrive\Documentos\Desenvolvimento\desafio1\Controle-Sistemas\obj\Debug\net6.0\Controle-Sistemas.dll
+C:\Users\cedua\OneDrive\Documentos\Desenvolvimento\desafio1\Controle-Sistemas\obj\Debug\net6.0\refint\Controle-Sistemas.dll
+C:\Users\cedua\OneDrive\Documentos\Desenvolvimento\desafio1\Controle-Sistemas\obj\Debug\net6.0\Controle-Sistemas.pdb
+C:\Users\cedua\OneDrive\Documentos\Desenvolvimento\desafio1\Controle-Sistemas\obj\Debug\net6.0\Controle-Sistemas.genruntimeconfig.cache
+C:\Users\cedua\OneDrive\Documentos\Desenvolvimento\desafio1\Controle-Sistemas\obj\Debug\net6.0\ref\Controle-Sistemas.dll
